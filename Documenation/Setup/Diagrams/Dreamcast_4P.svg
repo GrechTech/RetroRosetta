@@ -56,7 +56,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65 id66 id67 id68 id69 id70 id71 id72 id73 id74 id75 id76 id77 id78 id79 id80 id81 id82 id83 id84 id85 id86 id87 id88 id89 id90 id91 id92 id93 id94 id95 id96 id97 id98 id99 id100 id101 id102 id103 id104 id105 id106 id107 id108 id109 id110 id111 id112 id113 id114 id115 id116 id117 id118 id119 id120 id121 id122 id123"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65 id66 id67 id68 id69 id70 id71 id72 id73 id74 id75 id76 id77 id78 id79 id80 id81 id82 id83 id84 id85 id86 id87 id88 id89 id90 id91 id92 id93 id94 id95 id96 id97 id98 id99 id100 id101 id102 id103 id104 id105 id106 id107 id108 id109 id110 id111 id112 id113 id114 id115 id116 id117 id118 id119 id120 id121 id122 id123 id124 id125 id126 id127 id128 id129 id130 id131"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -928,6 +928,57 @@
         <rect class="BoundingBox" stroke="none" fill="none" x="5927" y="17339" width="6451" height="775"/>
         <path fill="none" stroke="rgb(42,96,153)" stroke-width="200" stroke-linejoin="round" d="M 6027,18013 L 12277,18013"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="6822" y="17697"><tspan fill="rgb(0,0,0)" stroke="none">Blue wire [Pin 4] (P4)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id124">
+        <rect class="BoundingBox" stroke="none" fill="none" x="16877" y="8325" width="1351" height="1351"/>
+        <path fill="none" stroke="rgb(0,169,51)" stroke-width="100" stroke-linejoin="round" d="M 17552,9625 L 16927,9625 16927,8375 18177,8375 18177,9625 17552,9625 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id125">
+        <rect class="BoundingBox" stroke="none" fill="none" x="18202" y="8326" width="6451" height="775"/>
+        <path fill="none" stroke="rgb(129,55,9)" stroke-width="200" stroke-linejoin="round" d="M 18302,9000 L 24552,9000"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="18891" y="8684"><tspan fill="rgb(0,0,0)" stroke="none">Brown wire [Pin 2] (P2)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id126">
+        <rect class="BoundingBox" stroke="none" fill="none" x="15303" y="9850" width="1351" height="1351"/>
+        <path fill="none" stroke="rgb(0,169,51)" stroke-width="100" stroke-linejoin="round" d="M 15978,11150 L 15353,11150 15353,9900 16603,9900 16603,11150 15978,11150 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id127">
+        <rect class="BoundingBox" stroke="none" fill="none" x="16926" y="11976" width="6451" height="775"/>
+        <path fill="none" stroke="rgb(129,55,9)" stroke-width="200" stroke-linejoin="round" d="M 17026,12650 L 23276,12650"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="17615" y="12334"><tspan fill="rgb(0,0,0)" stroke="none">Brown wire [Pin 2] (P3)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id128">
+        <rect class="BoundingBox" stroke="none" fill="none" x="15801" y="11050" width="1326" height="1701"/>
+        <path fill="none" stroke="rgb(129,55,9)" stroke-width="200" stroke-linejoin="round" d="M 15901,11150 L 17026,12650"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id129">
+        <rect class="BoundingBox" stroke="none" fill="none" x="15326" y="6189" width="8025" height="775"/>
+        <path fill="none" stroke="rgb(129,55,9)" stroke-width="200" stroke-linejoin="round" d="M 15426,6863 L 23250,6863"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16802" y="6547"><tspan fill="rgb(0,0,0)" stroke="none">Brown wire [Pin 2] (P4)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id130">
+        <rect class="BoundingBox" stroke="none" fill="none" x="14550" y="5974" width="1628" height="1753"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 14551,5975 L 16176,7725"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id131">
+        <rect class="BoundingBox" stroke="none" fill="none" x="14550" y="5974" width="1628" height="1753"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 16176,5975 L 14551,7725"/>
        </g>
       </g>
      </g>
