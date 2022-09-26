@@ -727,9 +727,9 @@
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id92">
-        <rect class="BoundingBox" stroke="none" fill="none" x="5400" y="29326" width="6951" height="775"/>
-        <path fill="none" stroke="rgb(0,169,51)" stroke-width="200" stroke-linejoin="round" d="M 5500,30000 L 12250,30000"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="5674" y="29684"><tspan fill="rgb(0,0,0)" stroke="none">Green/Black wire [Pin 3] (P1)</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="2650" y="29326" width="9701" height="775"/>
+        <path fill="none" stroke="rgb(0,169,51)" stroke-width="200" stroke-linejoin="round" d="M 2750,30000 L 12250,30000"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="3529" y="29684"><tspan fill="rgb(0,0,0)" stroke="none">Green/Black/Brown wire [Pin 3] (P1)</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
