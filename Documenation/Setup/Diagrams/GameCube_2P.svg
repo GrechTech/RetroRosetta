@@ -808,7 +808,7 @@
        <g id="id105">
         <rect class="BoundingBox" stroke="none" fill="none" x="2900" y="29339" width="9452" height="775"/>
         <path fill="none" stroke="rgb(0,169,51)" stroke-width="200" stroke-linejoin="round" d="M 3000,30013 L 12251,30013"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="3655" y="29697"><tspan fill="rgb(0,0,0)" stroke="none">Green/Black/Brown wire [Pin 3] (P1)</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="3089" y="29697"><tspan fill="rgb(0,0,0)" stroke="none">Green/Blue/Black/Brown wire [Pin 3] (P1)</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
@@ -822,7 +822,7 @@
        <g id="id107">
         <rect class="BoundingBox" stroke="none" fill="none" x="2650" y="24852" width="9702" height="775"/>
         <path fill="none" stroke="rgb(0,169,51)" stroke-width="200" stroke-linejoin="round" d="M 2750,25526 L 12251,25526"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="3530" y="25210"><tspan fill="rgb(0,0,0)" stroke="none">Green/Black/Brown wire [Pin 3] (P2)</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="2964" y="25210"><tspan fill="rgb(0,0,0)" stroke="none">Green/Blue/Black/Brown wire [Pin 3] (P2)</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
