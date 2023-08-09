@@ -1,0 +1,4 @@
+RetroRosetta V1 Case - STEP and STL - Release August 2023
+RetroRosetta V1 PCB - KiCCad files & Gerbers - Release August 2023
+RetroRosetta V2 Case - STEP and STL - Release August 2023
+RetroRosetta V2 Quick Swap PCBs - KiCCad files & Gerbers - Release August 2023
