@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\My Drive\01-Work\0-Projects\BLERetroController\4-5VBoard\RR_5V_HAT - THT\RR_5V_HAT.kicad_sch</source>
+    <date>12/10/2022 11:09:35</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RR_5V_HAT.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2b50da4-663a-4543-856d-61c85ab885fe</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a160a657-217e-4ed5-9110-b5e3eba5f5bf</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d5da92b-5809-4abb-a279-d0ca05d09855</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81c58412-af3c-4f2f-a8b0-fe00238fb67a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8443de7-507b-4c54-a016-9f0473442c1d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21c91b55-8e34-4505-a779-b0c569394798</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f3414b7-4065-43be-a366-1ffae47a571c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24306aa6-3b2f-45c3-8392-111b8c033f80</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6f5b4f0-2d5d-4a11-b9ea-52c6c2f130f3</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3983c2a6-8a86-4582-928d-d1078bcb8583</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SN74AHCT125N</value>
+      <footprint>ul_SN74AHCT125N:SN74AHCT125N</footprint>
+      <libsource lib="2022-10-11_16-28-30" part="SN74AHCT125N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f1ab77c-a071-473b-9e52-570b01126de4</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SN74AHCT125N</value>
+      <footprint>ul_SN74AHCT125N:SN74AHCT125N</footprint>
+      <libsource lib="2022-10-11_16-28-30" part="SN74AHCT125N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9477921d-3802-4f59-9247-7b5facb042aa</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN74AHCT125N</value>
+      <footprint>ul_SN74AHCT125N:SN74AHCT125N</footprint>
+      <libsource lib="2022-10-11_16-28-30" part="SN74AHCT125N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7d5883e-05d6-47e7-8eed-da9951bc6552</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SN74AHCT125N</value>
+      <footprint>ul_SN74AHCT125N:SN74AHCT125N</footprint>
+      <libsource lib="2022-10-11_16-28-30" part="SN74AHCT125N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RR_5V_HAT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f1d50bc-48f8-42b1-b0dd-be742715f1e6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2022-10-11_16-28-30" part="SN74AHCT125N">
+      <footprints>
+        <fp>N14</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74AHCT125N</field>
+        <field name="Footprint">N14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="*1OE" type="input"/>
+        <pin num="2" name="1A" type="input"/>
+        <pin num="3" name="1Y" type="unspecified"/>
+        <pin num="4" name="*2OE" type="input"/>
+        <pin num="5" name="2A" type="input"/>
+        <pin num="6" name="2Y" type="unspecified"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="unspecified"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="*3OE" type="input"/>
+        <pin num="11" name="4Y" type="unspecified"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="*4OE" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="2022-10-11_16-28-30">
+      <uri>G:/My Drive/01-Work/0-Projects/000CheatSheets/Kicad/ul_SN74AHCT125N/2022-10-11_16-28-30.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="J6" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J6" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J6" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/A1A">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="4" name="/A1E">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="*1OE" pintype="input"/>
+    </net>
+    <net code="5" name="/A1Y">
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="1Y" pintype="unspecified"/>
+    </net>
+    <net code="6" name="/A2A">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="7" name="/A2E">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="*2OE" pintype="input"/>
+    </net>
+    <net code="8" name="/A2Y">
+      <node ref="J5" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="2Y" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/A3A">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="10" name="/A3E">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="*3OE" pintype="input"/>
+    </net>
+    <net code="11" name="/A3Y">
+      <node ref="J5" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="3Y" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/A4A">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="13" name="/A4E">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="*4OE" pintype="input"/>
+    </net>
+    <net code="14" name="/A4Y">
+      <node ref="J5" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="4Y" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/B1A">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="16" name="/B1E">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="*1OE" pintype="input"/>
+    </net>
+    <net code="17" name="/B1Y">
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="1Y" pintype="unspecified"/>
+    </net>
+    <net code="18" name="/B2A">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="19" name="/B2E">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="*2OE" pintype="input"/>
+    </net>
+    <net code="20" name="/B2Y">
+      <node ref="J5" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="2Y" pintype="unspecified"/>
+    </net>
+    <net code="21" name="/B3A">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="22" name="/B3E">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="*3OE" pintype="input"/>
+    </net>
+    <net code="23" name="/B3Y">
+      <node ref="J5" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="3Y" pintype="unspecified"/>
+    </net>
+    <net code="24" name="/B4A">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="25" name="/B4E">
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="*4OE" pintype="input"/>
+    </net>
+    <net code="26" name="/B4Y">
+      <node ref="J5" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="4Y" pintype="unspecified"/>
+    </net>
+    <net code="27" name="/BP">
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="28" name="/C1A">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="29" name="/C1E">
+      <node ref="J3" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="*1OE" pintype="input"/>
+    </net>
+    <net code="30" name="/C1Y">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="1Y" pintype="unspecified"/>
+    </net>
+    <net code="31" name="/C2A">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="32" name="/C2E">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="*2OE" pintype="input"/>
+    </net>
+    <net code="33" name="/C2Y">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="2Y" pintype="unspecified"/>
+    </net>
+    <net code="34" name="/C3A">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="35" name="/C3E">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="*3OE" pintype="input"/>
+    </net>
+    <net code="36" name="/C3Y">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="3Y" pintype="unspecified"/>
+    </net>
+    <net code="37" name="/C4A">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="38" name="/C4E">
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="*4OE" pintype="input"/>
+    </net>
+    <net code="39" name="/C4Y">
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="4Y" pintype="unspecified"/>
+    </net>
+    <net code="40" name="/CP">
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="41" name="/D1A">
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="42" name="/D1E">
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="*1OE" pintype="input"/>
+    </net>
+    <net code="43" name="/D1Y">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="1Y" pintype="unspecified"/>
+    </net>
+    <net code="44" name="/D2A">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="45" name="/D2E">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="*2OE" pintype="input"/>
+    </net>
+    <net code="46" name="/D2Y">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="2Y" pintype="unspecified"/>
+    </net>
+    <net code="47" name="/D3A">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="48" name="/D3E">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="*3OE" pintype="input"/>
+    </net>
+    <net code="49" name="/D3Y">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="3Y" pintype="unspecified"/>
+    </net>
+    <net code="50" name="/D4A">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="51" name="/D4E">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="*4OE" pintype="input"/>
+    </net>
+    <net code="52" name="/D4Y">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="4Y" pintype="unspecified"/>
+    </net>
+    <net code="53" name="/DP">
+      <node ref="J6" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="54" name="GND">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J3" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J6" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J6" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J6" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="55" name="unconnected-(J6-Pad14)">
+      <node ref="J6" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
